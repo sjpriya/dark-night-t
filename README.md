@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Template files for Umbrella and Drops, create objects for rain drops using array and display it. 
+
